@@ -7,5 +7,3 @@ The code was provided for more reproducibility of the research
 - A fixed/Random effect model was conducted to calculate pool MD or RR with a corresponding 95% confidence interval, and Heterogeneity.
 - Publication bias was determined by funnel plot
 
-### How to use
-- 
